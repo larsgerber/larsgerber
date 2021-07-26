@@ -24,10 +24,9 @@
 
 ### Latest Blog Posts
 
+- [Nützliche Linux Befehle](https://blog.larsgerber.ch/nuetzliche-linux-befehle)
 - [My first open source contribution](https://blog.larsgerber.ch/my-first-open-source-contribution)
 - [Pi-hole Installation](https://blog.larsgerber.ch/pi-hole-installation)
-
-[more blog posts...][blog]
 
 <br />
 
